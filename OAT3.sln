@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAT3", "OAT3.csproj", "{CDACADF6-97D4-4EA2-BF11-619DCC7A2372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDACADF6-97D4-4EA2-BF11-619DCC7A2372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDACADF6-97D4-4EA2-BF11-619DCC7A2372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDACADF6-97D4-4EA2-BF11-619DCC7A2372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDACADF6-97D4-4EA2-BF11-619DCC7A2372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D3BF9F-2D32-4F85-8613-5D42B023C968}
+	EndGlobalSection
+EndGlobal
